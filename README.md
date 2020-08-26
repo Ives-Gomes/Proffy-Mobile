@@ -7,7 +7,9 @@
 </h3>
 
 <p align = "center">
-  <img alt = "Yarn version" src = "https://img.shields.io/badge/yarn-v1.22.4-blue">
+  <img alt = "Yarn version" src = "https://img.shields.io/badge/yarn-v1.22.4-lightblue">
+   
+  <img alt = "Typescript version" src = "https://img.shields.io/badge/typescript-v3.9.5-blue">
 
   <img alt = "Versão" src = "https://img.shields.io/badge/version-1.0.0-red">
     
@@ -93,7 +95,7 @@ The following tools were used in the construction of the project:
 - **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 - **[React Navigation](https://reactnavigation.org/)**
 - **[Axios](https://github.com/axios/axios)**
-- **[React Native Community](https://github.com/react-native-community)** -> **[Async Storage](https://github.com/react-native-community/async-storage)**, **[Masked View](https://github.com/react-native-community/react-native-masked-view)**, **[Picker](https://github.com/react-native-community/react-native-picker)**
+- **[React Native Community](https://github.com/react-native-community)** → **[Async Storage](https://github.com/react-native-community/async-storage)**, **[Masked View](https://github.com/react-native-community/react-native-masked-view)**, **[Picker](https://github.com/react-native-community/react-native-picker)**
 
 > See the file [package.json](https://github.com/Ives-Gomes/Proffy-Mobile/blob/master/package.json)
 

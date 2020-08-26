@@ -7,7 +7,7 @@
 </h3>
 
 <p align = "center">
-  <img alt = "Yarn version" src = "https://img.shields.io/badge/yarn-v1.22.4-lightblue">
+  <img alt = "Yarn version" src = "https://img.shields.io/badge/yarn-v1.22.4-blue">
    
   <img alt = "Typescript version" src = "https://img.shields.io/badge/typescript-v3.9.5-blue">
 
